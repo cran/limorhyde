@@ -1,0 +1,16 @@
+9ede8808111ce2354dea9c6943540955 *DESCRIPTION
+64459f9935f61ae62f9874362391b166 *NAMESPACE
+2a47d86d61d7ac215b1b158a3d4720f7 *NEWS.md
+8e78dcbab42bde3479cfbe718054bfb7 *R/limorhyde.R
+144ac26c3f981b2aab44d54fd8c9aa52 *build/vignette.rds
+25d8d2dcd4adca5690f5fcc50c553f78 *inst/doc/introduction.R
+2287cb6d002f4cf2528b5fdb6b4c99ff *inst/doc/introduction.Rmd
+9a96edc6ad7702d8ba46bd6424fc0faa *inst/doc/introduction.html
+7ebdaf0ea5264b1c0e5216fc84f96dfa *inst/extdata/GSE34018_expression_data.qs
+0e248c4791ed66aa27f271745a2c6f1b *inst/extdata/GSE34018_metadata.qs
+0a40861f13ec5e299e7fd3e9c5129c77 *man/getCosinorBasis.Rd
+a3b188328b28d8b6071480b5a9c4610f *man/getSplineBasis.Rd
+1c89a3181f1038b76bb7563ebb6d901b *man/limorhyde.Rd
+6f2b63f33c27415a77bc722c6a0ab4a6 *tests/testthat.R
+a99ececc1a2e7f208de789ee7f61b0da *tests/testthat/test_limorhyde.R
+2287cb6d002f4cf2528b5fdb6b4c99ff *vignettes/introduction.Rmd
